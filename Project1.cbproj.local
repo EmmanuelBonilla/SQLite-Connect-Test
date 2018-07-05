@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/07/02 11:23:38.000.116,=C:\Users\Manny\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2018/07/02 11:23:38.000.155,=C:\Users\Manny\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2018/07/02 11:25:21.000.231,=C:\Users\Manny\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2018/07/02 11:25:24.000.026,=C:\Users\Manny\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2018/07/02 13:24:17.000.803,C:\Users\Manny\Documents\Embarcadero\Studio\Projects\TestSQLite_using_FireDac\Test1.fmx=C:\Users\Manny\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2018/07/02 13:24:17.000.803,C:\Users\Manny\Documents\Embarcadero\Studio\Projects\TestSQLite_using_FireDac\Test1.h=C:\Users\Manny\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2018/07/02 13:24:17.000.803,C:\Users\Manny\Documents\Embarcadero\Studio\Projects\TestSQLite_using_FireDac\Test1.cpp=C:\Users\Manny\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2018/07/02 17:00:08.000.541,C:\Users\Manny\Documents\Embarcadero\Studio\Projects\TestSQLite_using_FireDac\Project1PCH1.h=C:\Users\Manny\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2018/07/02 17:00:12.000.061,C:\Users\Manny\Documents\Embarcadero\Studio\Projects\TestSQLite_using_FireDac\Project1.cbproj=C:\Users\Manny\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>

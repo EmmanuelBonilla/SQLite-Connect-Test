@@ -1,0 +1,64 @@
+object connectButton: TconnectButton
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 480
+  ClientWidth = 640
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object executeButton: TButton
+    Position.X = 448.000000000000000000
+    Position.Y = 384.000000000000000000
+    Size.Width = 152.000000000000000000
+    Size.Height = 57.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 2
+    Text = 'execute'
+    OnClick = executeButtonClick
+  end
+  object connectButton: TButton
+    Position.X = 24.000000000000000000
+    Position.Y = 384.000000000000000000
+    Size.Width = 153.000000000000000000
+    Size.Height = 57.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 0
+    Text = 'Connect'
+    OnClick = connectButtonClick
+  end
+  object outputMemo: TMemo
+    Touch.InteractiveGestures = [Pan, LongTap, DoubleTap]
+    DataDetectorTypes = []
+    StyledSettings = [Size, Style, FontColor]
+    TextSettings.Font.Family = 'Courier New'
+    Position.X = 16.000000000000000000
+    Position.Y = 176.000000000000000000
+    Size.Width = 617.000000000000000000
+    Size.Height = 161.000000000000000000
+    Size.PlatformDefault = False
+    StyleLookup = 'outputMemoStyle1'
+    TabOrder = 4
+    Viewport.Width = 613.000000000000000000
+    Viewport.Height = 157.000000000000000000
+  end
+  object sortButton: TButton
+    Position.X = 232.000000000000000000
+    Position.Y = 384.000000000000000000
+    Size.Width = 152.000000000000000000
+    Size.Height = 57.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 1
+    Text = 'Sort Name'
+    OnClick = executeButtonClick
+  end
+  object FDConnection1: TFDConnection
+    Left = 120
+    Top = 48
+  end
+  object FDPhysSQLiteDriverLink1: TFDPhysSQLiteDriverLink
+    Left = 408
+    Top = 48
+  end
+end
